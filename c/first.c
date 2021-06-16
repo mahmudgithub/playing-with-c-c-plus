@@ -64,3 +64,15 @@
 //     return 0;
 // }
 
+
+
+// // different types of  value in a single line 
+// #include<stdio.h>
+// int main()
+// {
+//     int first=1111, second =222;
+//     char one='a';
+//     float profit=1.10;
+//     printf("number is : %d, %d ,%c ,%f \n",first, second, one, profit);
+//     return 0;
+// }
