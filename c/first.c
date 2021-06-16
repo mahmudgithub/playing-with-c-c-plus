@@ -76,3 +76,14 @@
 //     printf("number is : %d, %d ,%c ,%f \n",first, second, one, profit);
 //     return 0;
 // }
+
+// // user input 
+// #include<stdio.h>
+// int main()
+// {
+//     int roll;
+//     printf("type your roll number:");
+//     scanf("%d",&roll);
+//     printf("your given roll is : %d",roll);
+//     return 0;
+// }
