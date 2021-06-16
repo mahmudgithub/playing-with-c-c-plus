@@ -87,3 +87,46 @@
 //     printf("your given roll is : %d",roll);
 //     return 0;
 // }
+
+
+// // take multiple user input by a single scanf
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y,z;
+//     printf("enter three int value:");
+//     scanf("%d %d %d", &x,&y,&z);
+//     printf("entered number are :%d,%d,%d\n",x,y,z);
+//     return 0;
+
+// }
+
+
+// take different type of user input and show ouput by a single line 
+#include<stdio.h>
+int main()
+{
+    int x,y;
+    char first;
+    float second;
+    printf("enter two int type ,one char and a float type values:");
+    scanf("%d %d %c %f",&x,&y,&first,&second);
+    printf("entered values are: %d, %d, %c, %f, \n",x,y,first,second);
+    return 0;
+}
+
+// // take user input and sum then 
+// #include<stdio.h>
+// int main(){
+//     int num1,num2;
+//     int summ= num1+num2;
+//     printf("enter first number:");
+//     scanf("%d",&num1);
+//     printf("enter second number:");
+//     scanf("%d",&num2);
+//     printf("giver numbers are : %d ,%d \n",num1,num2);
+//     printf("sum of two number is :%d",summ);
+
+//     return 0;
+
+// }
