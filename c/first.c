@@ -26,3 +26,12 @@
 //     return 0;
 
 // }
+
+// //show flot value 
+// #include<stdio.h>
+// int main()
+// {
+// float values=11.1555555;
+//  printf("sentence is : %f", values);
+//  return 0;
+// }
