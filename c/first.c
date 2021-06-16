@@ -52,3 +52,15 @@
 
 //     return 0;
 // }
+
+
+
+// // two output value in a single line 
+// #include<stdio.h>
+// int main()
+// {
+//     int first=1111, second =222;
+//     printf("number is : %d, %d \n",first, second);
+//     return 0;
+// }
+
