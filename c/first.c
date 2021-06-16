@@ -35,3 +35,20 @@
 //  printf("sentence is : %f", values);
 //  return 0;
 // }
+
+
+// // add new line 
+// #include<stdio.h>
+// int main()
+// {
+//     int roll=12345;
+//     char first_latter='A';
+//     float percentace=11.55;
+//     double big_percent=11.1111111111;
+//     printf("my roll is : %d \n",roll);
+//     printf("my latter is : %c \n",first_latter);
+//     printf("my profit is : %f \n",percentace);
+//     printf("my klove is : %lf",big_percent);
+
+//     return 0;
+// }
