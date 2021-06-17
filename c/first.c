@@ -132,13 +132,25 @@
 // }
 
 
-// take a user input interger value and convert to ascii value 
-#include<stdio.h>
-int main()
-{
-    int x;
-    printf("enter a intiger number:");
-    scanf("%d", &x);
-    printf("output convert to ascii number: %c", x);
-    return 0;
-}
+// // take a user input interger value and convert to ascii value 
+// #include<stdio.h>
+// int main()
+// {
+//     int x;
+//     printf("enter a intiger number:");
+//     scanf("%d", &x);
+//     printf("output convert to ascii number: %c", x);
+//     return 0;
+// }
+
+
+// // take a user ascii value and convert to decimal value 
+// #include<stdio.h>>
+// int main()
+// {
+//     char x;
+//     printf("enter a ascii char value:");
+//     scanf("%c",&x);
+//     printf("converted ascii to decimal is : %d",x);
+//     return 0;
+// }
