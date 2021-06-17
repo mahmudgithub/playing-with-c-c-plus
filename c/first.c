@@ -102,18 +102,18 @@
 // }
 
 
-// take different type of user input and show ouput by a single line 
-#include<stdio.h>
-int main()
-{
-    int x,y;
-    char first;
-    float second;
-    printf("enter two int type ,one char and a float type values:");
-    scanf("%d %d %c %f",&x,&y,&first,&second);
-    printf("entered values are: %d, %d, %c, %f, \n",x,y,first,second);
-    return 0;
-}
+// // take different type of user input and show ouput by a single line 
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     char first;
+//     float second;
+//     printf("enter two int type ,one char and a float type values:");
+//     scanf("%d %d %c %f",&x,&y,&first,&second);
+//     printf("entered values are: %d, %d, %c, %f, \n",x,y,first,second);
+//     return 0;
+// }
 
 // // take user input and sum then 
 // #include<stdio.h>
@@ -130,3 +130,15 @@ int main()
 //     return 0;
 
 // }
+
+
+// take a user input interger value and convert to ascii value 
+#include<stdio.h>
+int main()
+{
+    int x;
+    printf("enter a intiger number:");
+    scanf("%d", &x);
+    printf("output convert to ascii number: %c", x);
+    return 0;
+}
