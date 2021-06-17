@@ -154,3 +154,15 @@
 //     printf("converted ascii to decimal is : %d",x);
 //     return 0;
 // }
+
+
+// // convert lower case latter to upper case latter
+// #include<stdio.h>
+// int main()
+// {
+//     char x;
+//     printf("enter any lawer case latter:");
+//     scanf("%c",&x);
+//     printf("ouput of user inputed lower case value is : %c",x-32);
+//     return 0;
+// }
