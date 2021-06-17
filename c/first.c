@@ -115,22 +115,6 @@
 //     return 0;
 // }
 
-// // take user input and sum then 
-// #include<stdio.h>
-// int main(){
-//     int num1,num2;
-//     int summ= num1+num2;
-//     printf("enter first number:");
-//     scanf("%d",&num1);
-//     printf("enter second number:");
-//     scanf("%d",&num2);
-//     printf("giver numbers are : %d ,%d \n",num1,num2);
-//     printf("sum of two number is :%d",summ);
-
-//     return 0;
-
-// }
-
 
 // // take a user input interger value and convert to ascii value 
 // #include<stdio.h>
@@ -203,4 +187,34 @@
 //     scanf("%d",&num);
 //     printf("converted hexadecimal number is = %x",num);
 //     return 0;
+// }
+
+// // take user input in hexadecimal and convert to decimal 
+// #include<stdio.h>
+// int main()
+// {
+//     int num;
+//     printf("enter a hexadecimal number:");
+//     scanf("%x",&num);
+//     printf("converted ouput is %d", num);
+//     return 0;
+// }
+
+
+
+
+// // take user input and sum then 
+// #include<stdio.h>
+// int main(){
+//     int num1,num2,summ;
+//     printf("enter first number:");
+//     scanf("%d",&num1);
+//     printf("enter second number:");
+//     scanf("%d",&num2);
+//     printf("giver numbers are : %d ,%d \n",num1,num2);
+//     summ= num1+num2;
+//     printf("sum of two number is :%d",summ);
+
+//     return 0;
+
 // }
