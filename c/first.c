@@ -166,3 +166,28 @@
 //     printf("ouput of user inputed lower case value is : %c",x-32);
 //     return 0;
 // }
+
+// // if convert upper to lower just use x+32
+// #include<stdio.h>
+// int main()
+// {
+//     char x;
+//     printf("enter any upper case latter:");
+//     scanf("%c",&x);
+//     printf("ouput of user inputed upper case value is : %c",x+32);
+//     return 0;
+// }
+
+
+
+// // Using toupper function convert lower to upper
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf("enter a lower value:");
+//     scanf("%c",&x);
+//     y=toupper(x);
+//     printf("conveter value is: %c",y);
+//     return 0;
+// }
