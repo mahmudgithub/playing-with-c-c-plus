@@ -191,3 +191,16 @@
 //     printf("conveter value is: %c",y);
 //     return 0;
 // }
+
+
+
+// // convert decimal to hexadecimal number 
+// #include<stdio.h>
+// int main()
+// {
+//     int num;
+//     printf("enter a decimal number: ");
+//     scanf("%d",&num);
+//     printf("converted hexadecimal number is = %x",num);
+//     return 0;
+// }
