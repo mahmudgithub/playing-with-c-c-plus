@@ -218,3 +218,17 @@
 //     return 0;
 
 // }
+
+
+// // calculate are of rectangle 
+// #include<stdio.h>
+// int main()
+// {
+//     float length, width, area;
+//     printf("enter length and width of rectangel:");
+//     scanf("%f %f",&length, &width);
+//     area=length * width;
+//     printf("area of reactangle is: %f",area);
+//     return 0;
+
+// }
