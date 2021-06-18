@@ -449,8 +449,65 @@
 //     scanf("%d %d",&x ,&y);
 //     printf("rsult is : %d",fn(x,y));
 // }
-
 // int fn(int a,int b)
 // {
 // return a+b;
+// }
+// // more pactics of c function
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf("enetr two number:");
+//     scanf("%d %d ", &x, &y);
+//     printf("result is: %d", summ(x,y));
+//     return 0;
+// }
+
+// int summ(int a, int b)
+// {
+    
+//     return a+b;
+// }
+
+
+// different way of array in c programming 
+// // first way 
+// #include<stdio.h>
+// int main()
+// {
+//     int arr [6];
+//     arr[0]='a';
+//      arr[1]='b';
+//       arr[2]='c';
+//         arr[3]='d';
+//          arr[4]='e';
+//          arr[5]='f';
+
+//     printf("%c",arr[1]);
+//     return 0;
+
+// }
+
+
+
+// // second way
+// #include<stdio.h>
+// int main()
+// {
+//     int arr[6]={'a','b','c','d','e','f'};
+
+//     printf("%c",arr[1]);
+//     return 0;
+
+// }
+
+
+// // thirday 
+// #include<stdio.h>
+// int main()
+// {
+//     int arr[]={'a','b','c','d','e','f'};
+//     printf("%c",arr[1]);
+//     return 0;
 // }
