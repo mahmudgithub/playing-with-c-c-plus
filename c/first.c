@@ -249,3 +249,17 @@
 //     printf(" number two is: %d",num2);
 //     return 0;
 // }
+
+
+// // temparature calculator 
+// #include<stdio.h>
+// int main()
+// {
+//     float c,F;
+//     printf("enter temparature in farenhite:");
+//     scanf("%f",&F);
+//     c=(F-32)/1.8;
+//     printf("temparature in celcias: %f",c);
+//     return 0;
+
+// }
