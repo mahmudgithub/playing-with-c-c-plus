@@ -420,3 +420,37 @@
 //     printf("undefide :");
 //     return 0;
 // }
+
+
+
+// // function in c 
+// #include<stdio.h>
+
+
+// int main()
+// {
+//     printf("result1 is :%d",fn1(5,2));
+//     printf("result1 is :%d",fn1(5,5));
+// }
+
+
+//  int fn1(int x,int y)
+//  {
+//     return x+y;
+
+//  }
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf("enter two number:");
+//     scanf("%d %d",&x ,&y);
+//     printf("rsult is : %d",fn(x,y));
+// }
+
+// int fn(int a,int b)
+// {
+// return a+b;
+// }
