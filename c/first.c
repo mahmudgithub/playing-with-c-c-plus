@@ -401,3 +401,22 @@
 //     return 0;
 
 // } 
+
+
+
+// // take a input number and determine that number is positive or negative 
+// #include<stdio.h>
+// int main()
+// {
+//     float x=0;
+//     float y;
+//     printf("enter a number :");
+//     scanf("%f",&y);
+//     if (y<x)
+//     printf("enter number is negative: %f",x-y);
+//     else if(y>x)
+//     printf("enter number is positive: %f",y-x);
+//     else
+//     printf("undefide :");
+//     return 0;
+// }
