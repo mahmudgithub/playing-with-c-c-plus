@@ -383,3 +383,21 @@
 //     return 0;
 
 // }
+
+
+// // if, else if ,else exampole
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf("enter two number ");
+//     scanf("%d %d",&x,&y);
+//     if (x<y)
+//     printf("y is bigger then x: %d",y-x);
+//     else if(x>y)
+//     printf("x is bigger then y: %d",x-y);
+//     else
+//     printf("both are equal: %d",x);
+//     return 0;
+
+// } 
