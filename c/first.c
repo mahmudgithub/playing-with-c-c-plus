@@ -306,3 +306,19 @@
 //     printf("output value is : %d",p);
 //     return 0;
 // }
+
+
+
+
+// // find lon output
+// #include<stdio.h>
+// int main()
+// {
+//     float x,y;
+// printf("enter a number: ");
+// scanf("%f",&x);
+// y=log(x);
+// printf("OUTPUT IS :%f",y);
+// return 0;
+
+// }
