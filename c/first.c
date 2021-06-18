@@ -349,3 +349,37 @@
 //     printf("output of y  : %d",y);
 //     return 0;
 // }
+
+
+// // increment and decriment both in one program 
+// #include<stdio.h>
+// int main()
+// {
+//     int x=10;
+//     printf("initial value of x: %d \n",x);
+//     printf("post increment value of x: %d \n",x++);
+//     printf("%d \n",x);
+//     printf(" preincrement value of x: %d \n",++x);
+//     printf("%d \n",x);
+//     printf("%d \n",x--);
+//     printf("%d \n",x);
+//     printf("%d \n",--x);
+//     return 0;
+// }
+
+
+
+// // if else statement in c progrm 
+// #include<stdio.h>
+// int main()
+// {
+//     int x;
+//     printf ("enter a value:");
+//     scanf("%d",&x);
+//     if(x%2==0)
+//     printf("this is even number: %d",x);
+//     else
+//     printf("entered number is odd: %d",x);
+//     return 0;
+
+// }
