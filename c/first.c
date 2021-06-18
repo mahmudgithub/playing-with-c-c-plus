@@ -310,7 +310,7 @@
 
 
 
-// // find lon output
+// // find log output
 // #include<stdio.h>
 // int main()
 // {
@@ -322,3 +322,17 @@
 // return 0;
 
 // }
+
+
+// // assignment operetor 
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf("entr a value:");
+//     scanf("%d",&x);
+//     x+=1;
+//     printf("result is: %d",x);
+//     return 0;
+// }
+
