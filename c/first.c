@@ -263,3 +263,17 @@
 //     return 0;
 
 // }
+
+
+// // absulate value determine 
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf(" enter a negative value:");
+//     scanf("%d",&x);
+//     y=abs(x);
+//     printf("ouput value is : %d",y);
+//     return 0;
+
+// }
