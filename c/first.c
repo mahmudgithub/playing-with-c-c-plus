@@ -232,3 +232,20 @@
 //     return 0;
 
 // }
+
+
+
+// // swipe program example 
+// #include<stdio.h>
+// int main()
+// {
+//     int num1,num2,num3;
+//     num1=10;
+//     num2=20;
+//     num3=num1;
+//     num1=num2;
+//     num2=num3;
+//     printf(" number one is: %d \n",num1);
+//     printf(" number two is: %d",num2);
+//     return 0;
+// }
