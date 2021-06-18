@@ -291,3 +291,18 @@
 //     printf("output squre value is: %f",y);
 //     return 0;
 // }
+
+
+
+// // use power function 
+// #include<stdio.h>
+// int main()
+// {
+//     int x, z, p;
+
+//     printf("enter two number :");
+//     scanf("%d %d", &x,&z);
+//     p=pow(x,z);
+//     printf("output value is : %d",p);
+//     return 0;
+// }
