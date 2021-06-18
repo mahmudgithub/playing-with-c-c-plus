@@ -336,3 +336,16 @@
 //     return 0;
 // }
 
+
+// // pre increment increment operetor 
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf("enter x value:");
+//     scanf("%d",&x);
+//     printf("output of x: %d \n",x);
+//     y=++x;
+//     printf("output of y  : %d",y);
+//     return 0;
+// }
