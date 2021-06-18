@@ -277,3 +277,17 @@
 //     return 0;
 
 // }
+
+
+
+// // using squreroot function to find a squre value
+// #include<stdio.h>
+// int main()
+// {
+//     float x,y;
+//     printf("enter a value:");
+//     scanf("%f",&x);
+//     y=sqrt(x);
+//     printf("output squre value is: %f",y);
+//     return 0;
+// }
