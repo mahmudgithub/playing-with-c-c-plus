@@ -214,12 +214,23 @@
 
 
 // c++ from w3 school .........................................
-// run first c++ program 
-#include<iostream>
-using namespace std;
-int main()
-{
-    cout <<"'hello world'";
-    return 0;
-    
-} 
+
+
+
+// // run first c++ program 
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     cout <<"'hello world'";
+//     return 0;   
+// } 
+
+
+// // alternative stucture 
+// #include <iostream>
+
+// int main() {
+//   std::cout << "Hello World!";
+//   return 0;
+// }
