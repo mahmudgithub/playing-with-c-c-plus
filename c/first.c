@@ -164,7 +164,7 @@
 
 
 
-// // Using toupper function convert lower to upper
+// // Using to upper function convert lower to upper
 // #include<stdio.h>
 // int main()
 // {
@@ -453,21 +453,21 @@
 // {
 // return a+b;
 // }
-// // more pactics of c function
+// more pactics of c function
 // #include<stdio.h>
 // int main()
 // {
 //     int x,y;
 //     printf("enetr two number:");
 //     scanf("%d %d ", &x, &y);
-//     printf("result is: %d", summ(x,y));
-//     return 0;
+//     printf("result is: %d", fn(x,y));
+//     // return 0;
 // }
 
-// int summ(int a, int b)
+// int fn(int a, int b)
 // {
     
-//     return a+b;
+// return a+b;
 // }
 
 
@@ -511,3 +511,231 @@
 //     printf("%c",arr[1]);
 //     return 0;
 // }
+
+
+// // sum all array values using for loop
+// #include<stdio.h>
+// int main()
+// {
+//     int arr[5]={2,3,4,5};
+//     int sum=0,i;
+//     for (i=0; i<arr;i++)
+//     {
+//         sum=sum+arr[i];
+//         printf("total of arrya vales: %d",sum);
+//         return 0;
+//     }
+// }
+
+
+// #include <stdio.h>
+// int main()
+// {
+//     printf("result is: %d",sum(2,5));
+//     return 0;
+// }
+// int sum(int x,int y){
+    
+//     int z=x+y;
+//     return z;
+
+// }
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y;
+//     printf("enter two number :");
+//     scanf("%d %d ",&x,&y);
+//     printf ("sum of number is: %d",sum(x,y));
+//     return 0;
+// }
+
+// int sum(int a, int b)
+// {
+    
+//    return a+b;
+// }
+
+
+// // string in c
+// #include<stdio.h>
+// int main()
+// {
+//     char name[20]="mahmud hossain";
+//     printf("my name is : %c",name);
+//     return 0;
+// }
+
+// // user input in case
+// #include <stdio.h>
+// int mian()
+// {
+//     int x;
+//     printf("enter a number: ");
+//     scanf("%d", &x);
+//     printf("result is %d", x);
+//     return 0;
+// }
+
+// // relational operetor in c 
+
+// #include<stdio.h>
+// int main()
+// {
+//     char vow;
+//     printf("enter charecter:");
+//     scanf("%c",&vow);
+//     if (vow=='a' || vow=='e' || vow=='i' || vow=='o' || vow=='u')
+//     printf("entered character is vawel: %c",vow);
+//     else
+//     printf("enter charecter is consonent: %c",vow);
+//     return 0;
+// }
+
+
+// // relational opretor and in c
+// #include<stdio.h>
+// int main()
+// {
+//     int x,y,z;
+//     printf("enter three number:");
+//     scanf("%d %d %d ",&x, &y, &z);
+//     if(x>y && x>z)
+//     printf("x is bigger then all : ");
+//     else if(x<y && x<z)
+//     printf("x is smaller then all: ");
+//         else if(x>y && x<z)
+//     printf("x is bigger then y but smaller then z: ");
+//         else if(x>z && x<y)
+//     printf("x is bigger then z but smaller then y: ");
+//     else
+//     printf("unknown in put");
+//     return 0;
+// }
+
+
+// // switch in c 
+// #include<stdio.h>
+// int main()
+// {
+//     int num;
+//     printf("enter a number:");
+//     scanf("%d",&num);
+//     switch (num)
+//     {
+//         case 0:
+//         printf("input is %d:",num);
+//         break;
+
+//         case 1:
+//         printf("input is %d:",num);
+//         break;
+
+//         case 2:
+//         printf("input is %d:",num);
+//         break;
+
+//         case 3:
+//         printf("input is %d:",num);
+//         break;
+//     }
+
+//     return 0;
+// }
+
+
+// // for loop in c 
+// #include<stdio.h>
+// int main()
+// {
+//     int x=5;
+//     int i;
+//     for( i=0;i<x;i++)
+//     printf("enter number is : %d \n",i);
+//     return 0;
+// }
+
+
+// // while loop in c 
+// #include<stdio.h>
+// int main()
+// {
+//     int i;
+//     // i=1;
+//     while (i<=100)
+//     {
+//         printf("number is : %d \n",i);
+//         i++;
+//         break ;
+//     }
+//     return 0;
+    
+// }
+
+// // multiple switch statement 
+// #include<stdio.h>
+// int main()
+// {
+//     char x;
+//     printf("enter latter:");
+//     scanf("%c",&x);
+//     switch (x)
+//     {
+//     case 'a':
+//         printf("entr vawel: %c",x);
+//         break;
+//     case 'e':
+//         printf("entr vawel: %c",x);
+//         break;
+    
+//     case 'i':
+//         printf("entr vawel: %c",x);
+//         break;
+
+//     case 'o':
+//         printf("entr vawel: %c",x);
+//         break;
+//     case 'u':
+//         printf("entr vawel: %c",x);
+//         break;
+    
+    
+//     default:
+//     printf("enter chacracter is not vowel: %c",x);
+//         break;
+
+//     }
+//     return 0;
+// }
+
+// #include<stdio.h>
+// int main()
+// {
+//     int i=4;
+//     printf(" result1: %d  result2:%d  ", ++i, i++);
+//     printf("result3:%d",i++);
+//     return 0;
+// }
+
+// #include<stdio.h>
+// int main()
+// {
+//     printf("hello");
+//     return 0;
+// }
+
+// #include<stdio.h>
+// int main()
+// {
+// printf("cool boy me ");
+// return 0;
+// }
+
+#include<stdio.h>
+int main()
+{
+    printf("hello");
+    return 0;
+}
