@@ -53,3 +53,17 @@
 //     printf("all in one line \n %d,\n %c, \n %f", one,two,three);
 //     return 0;
 // }
+// #include<stdio.h>
+// int main(){
+//     printf("FIRST RAMADAN ");
+//     printf("second ramadan");
+//     return 0;
+// }
+#include<stdio.h>
+int main()
+{
+    int roll=33;
+    printf("my roll is :%d", roll);
+    return 0;
+    
+}

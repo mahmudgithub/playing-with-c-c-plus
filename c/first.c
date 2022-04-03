@@ -733,9 +733,22 @@
 // return 0;
 // }
 
+// #include<stdio.h>
+// int main()
+// {
+//     printf("hello");
+//     return 0;
+// }
+
+// #include<stdio.h>
+// int main(){
+// printf("pactics");
+//     return 0;
+
+// }
+
 #include<stdio.h>
-int main()
-{
-    printf("hello");
-    return 0;
+int main(){
+    printf("hello ");
+    return;
 }
