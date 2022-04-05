@@ -69,12 +69,30 @@
 // }
 
 
+// #include<stdio.h>
+// int main()
+// {
+//     int roll=12345;
+//     char name='m';
+//     printf("my name is: %d",name );
+//     printf("my rool id: %c",roll);
+//     return 0;
+// }
+
 #include<stdio.h>
 int main()
 {
     int roll=12345;
-    char name='m';
-    printf("my name is: %d",name );
-    printf("my rool id: %c",roll);
+    char first='m';
+    float  percentage=1.234;
+    double more=5.3333333333333333;
+    double long max=3.1416;
+    printf("roll is: %d \n",roll);
+    printf("first is: %f \n");
+    printf("percentage is: %f \n",percentage);
+    printf("more is :%lf \n",more);
+    printf("max is : %lf \n",max);
     return 0;
+
+
 }
