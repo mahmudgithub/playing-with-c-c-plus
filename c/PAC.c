@@ -59,11 +59,22 @@
 //     printf("second ramadan");
 //     return 0;
 // }
+// #include<stdio.h>
+// int main()
+// {
+//     int roll=33;
+//     printf("my roll is :%d", roll);
+//     return 0;
+    
+// }
+
+
 #include<stdio.h>
 int main()
 {
-    int roll=33;
-    printf("my roll is :%d", roll);
+    int roll=12345;
+    char name='m';
+    printf("my name is: %d",name );
+    printf("my rool id: %c",roll);
     return 0;
-    
 }
