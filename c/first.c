@@ -719,36 +719,4 @@
 //     return 0;
 // }
 
-// #include<stdio.h>
-// int main()
-// {
-//     printf("hello");
-//     return 0;
-// }
-
-// #include<stdio.h>
-// int main()
-// {
-// printf("cool boy me ");
-// return 0;
-// }
-
-// #include<stdio.h>
-// int main()
-// {
-//     printf("hello");
-//     return 0;
-// }
-
-// #include<stdio.h>
-// int main(){
-// printf("pactics");
-//     return 0;
-
-// }
-
-#include<stdio.h>
-int main(){
-    printf("hello ");
-    return;
-}
+//
